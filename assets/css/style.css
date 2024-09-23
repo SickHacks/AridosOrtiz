@@ -600,7 +600,7 @@ p {
 
 .navbar-nav .nav-item a:hover,
 .navbar-nav .nav-item a.active {
-  color: #fe7a7b;
+  color: #fff;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px),
@@ -643,7 +643,7 @@ p {
 
 .sticky .navbar-nav .nav-item a.active,
 .sticky .navbar-nav .nav-item a:hover {
-  color: #fe7a7b;
+  color: #361cc1;
 }
 
 /*===== HEADER HERO =====*/
@@ -1379,7 +1379,7 @@ p {
 }
 
 .footer-about .social li a:hover {
-  color: #fe8464;
+  color: #361cc1;
 }
 
 .footer-title .title {
@@ -1422,7 +1422,7 @@ p {
 }
 
 .link-wrapper .link li a:hover {
-  color: #fe8464;
+  color: #361cc1;
 }
 
 .footer-contact .contact {
@@ -1458,7 +1458,7 @@ p {
 }
 
 .copyright-content a:hover {
-  color: #fe8464;
+  color: #361cc1;
 }
 
 /*===== BACK TO TOP =====*/
