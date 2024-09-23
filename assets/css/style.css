@@ -877,7 +877,7 @@ p {
   margin-top: 30px;
   font-size: 16px;
   font-weight: 400;
-  color: #fe7a7b;
+  color: #361cc1;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
 }
@@ -893,7 +893,7 @@ p {
 }
 
 .single-services:hover {
-  border-color: #fe7a7b;
+  border-color: #361cc1;
 }
 
 .single-services:hover .services-icon .shape {
