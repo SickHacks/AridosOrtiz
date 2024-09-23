@@ -896,10 +896,7 @@ p {
   border-color: #361cc1;
 }
 
-.single-services:hover .services-icon .shape {
-  -webkit-transform: rotate(25deg);
-  transform: rotate(25deg);
-}
+
 
 /*===========================
 	ABOUT css 
