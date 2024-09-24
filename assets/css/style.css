@@ -663,7 +663,7 @@ p {
 }
 
 .header-hero-content {
-  padding-top: 180px;
+  padding-top: 150px;
 }
 
 @media (max-width: 767px) {
@@ -673,7 +673,7 @@ p {
 }
 
 .header-hero-content .header-sub-title {
-  font-size: 38px;
+  font-size: 35px;
   font-weight: 300;
   color: #fff;
 }
